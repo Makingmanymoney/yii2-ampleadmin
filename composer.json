@@ -1,0 +1,21 @@
+{
+    "name": "makingmanymoney/yii2-ampleadmin",
+    "description": "https://wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-material/documentation.html",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Lohner",
+            "email": "thomas@re-spawn.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "makingmanymoney\\ampleadmin\\": ""
+        }
+    }
+}
